@@ -1,0 +1,8 @@
+C:\Users\User\documents\visual studio 2015\Projects\Roblox\Roblox Testing\bin\Debug\Roblox Testing.dll
+C:\Users\User\documents\visual studio 2015\Projects\Roblox\Roblox Testing\bin\Debug\Roblox Testing.pdb
+C:\Users\User\documents\visual studio 2015\Projects\Roblox\Roblox Testing\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\User\documents\visual studio 2015\Projects\Roblox\Roblox Testing\bin\Debug\RobloxCode.exe
+C:\Users\User\documents\visual studio 2015\Projects\Roblox\Roblox Testing\bin\Debug\RobloxCode.pdb
+C:\Users\User\documents\visual studio 2015\Projects\Roblox\Roblox Testing\obj\Debug\Roblox Testing.csprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2015\Projects\Roblox\Roblox Testing\obj\Debug\Roblox Testing.dll
+C:\Users\User\documents\visual studio 2015\Projects\Roblox\Roblox Testing\obj\Debug\Roblox Testing.pdb

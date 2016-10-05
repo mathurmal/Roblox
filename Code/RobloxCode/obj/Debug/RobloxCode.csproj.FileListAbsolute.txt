@@ -1,0 +1,12 @@
+C:\Users\User\documents\visual studio 2015\Projects\Roblox\RobloxCode\bin\Debug\RobloxCode.exe.config
+C:\Users\User\documents\visual studio 2015\Projects\Roblox\RobloxCode\bin\Debug\RobloxCode.exe
+C:\Users\User\documents\visual studio 2015\Projects\Roblox\RobloxCode\bin\Debug\RobloxCode.pdb
+C:\Users\User\documents\visual studio 2015\Projects\Roblox\RobloxCode\obj\Debug\RobloxCode.exe
+C:\Users\User\documents\visual studio 2015\Projects\Roblox\RobloxCode\obj\Debug\RobloxCode.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Roblox\RobloxCode\obj\Debug\RobloxCode.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\Roblox\Code\RobloxCode\bin\Debug\RobloxCode.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\Roblox\Code\RobloxCode\obj\Debug\RobloxCode.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Roblox\Code\RobloxCode\obj\Debug\RobloxCode.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Roblox\Code\RobloxCode\bin\Debug\RobloxCode.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Roblox\Code\RobloxCode\bin\Debug\RobloxCode.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Roblox\Code\RobloxCode\obj\Debug\RobloxCode.csprojResolveAssemblyReference.cache
